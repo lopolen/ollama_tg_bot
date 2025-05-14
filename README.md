@@ -16,7 +16,7 @@
 ## 🛠️ Встановлення
 
 ```bash
-git clone https://github.com/yourusername/ollama_tg_bot.git
+git clone https://github.com/lopolen/ollama_tg_bot.git
 cd ollama_tg_bot
 python -m venv .venv
 source .venv/bin/activate
